@@ -1,0 +1,78 @@
+id,common_name,scientific_name,group,crea_category,is_invasive,is_cinegetica,cinegetica_comercializable_vivo,cinegetica_comercializable_muerto,has_hunting_quota,is_pescable,pescable_tipo,talla_minima_mm,notas
+oryctolagus_cuniculus_29a44f,Conejo,Oryctolagus cuniculus,mamífero,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+vulpes_vulpes_81d003,Zorro,Vulpes vulpes,mamífero,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+lepus_granatensis_3748f2,Liebre ibérica,Lepus granatensis,mamífero,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+anas_platyrhynchos_002033,Ánade real,Anas platyrhynchos,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+mareca_strepera_b61e1d,Ánade friso,Mareca strepera,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+fulica_atra_3148a3,Focha común,Fulica atra,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+anas_crecca_4979c4,Cerceta común,Anas crecca,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+spatula_clypeata_a16f18,Pato cuchara,Spatula clypeata,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+vanellus_vanellus_f7d7c8,Avefría,Vanellus vanellus,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+columba_palumbus_114a0a,Paloma torcaz,Columba palumbus,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+coturnix_coturnix_b0958a,Codorniz común,Coturnix coturnix,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+columba_oenas_1d5738,Paloma zurita,Columba oenas,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+scolopax_rusticola_3435d9,Becada,Scolopax rusticola,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+streptopelia_turtur_dca91f,Tórtola europea (común),Streptopelia turtur,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+turdus_iliacus_202ded,Zorzal alirrojo,Turdus iliacus,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+sturnus_vulgaris_bf5e01,Estornino pinto,Sturnus vulgaris,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+turdus_philomelos_57119f,Zorzal común,Turdus philomelos,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+turdus_pilaris_d2f15b,Zorzal real,Turdus pilaris,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+corvus_corone_d5d7e4,Corneja negra,Corvus corone,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+corvus_monedula_f60c90,Grajilla,Corvus monedula,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+phasianus_colchicus_123c86,Faisán,Phasianus colchicus,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+columba_livia_642116,Paloma bravía,Columba livia,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+alectoris_rufa_904244,Perdiz roja,Alectoris rufa,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+pica_pica_a0e783,Urraca,Pica pica,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+turdus_viscivorus_a7dedc,Zorzal charlo,Turdus viscivorus,ave,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+capra_pyrenaica_3f4201,Cabra montés,Capra pyrenaica,mamífero,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+dama_dama_465830,Gamo,Dama dama,mamífero,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+cervus_elaphus_533c63,Ciervo,Cervus elaphus,mamífero,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+capreolus_capreolus_e7c8d0,Corzo,Capreolus capreolus,mamífero,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+ovis_orientalis_musimon_186435,Muflón,Ovis orientalis musimon,mamífero,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+sus_scrofa_422649,Jabalí,Sus scrofa,mamífero,,FALSE,TRUE,,,,,,,Del documento de especies cinegéticas 2022-23.
+carpobrotus_acinaciformis_967e5d,Uña de León,Carpobrotus acinaciformis,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+carpobrotus_edulis_9d0ece,Uña de León,Carpobrotus edulis,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+eichhornia_crassipes_43899e,Jacinto de agua / Camalote,Eichhornia crassipes,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+cortaderia_selloana_cf6e9a,Cortaderia (Plumero de la Pampa),Cortaderia selloana,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+ailanthus_altissima_cd67bc,Ailanto / Árbol del cielo,Ailanthus altissima,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+acacia_dealbata_d0b702,Mimosa,Acacia dealbata,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+robinia_pseudoacacia_5ae19d,Falsa acacia,Robinia pseudoacacia,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+agave_americana_329c8a,Agave americana (Pitera común),Agave americana,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+arundo_donax_3e31c0,Arundo donax (Caña),Arundo donax,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+azolla_filiculoides_93b70c,Azolla,Azolla filiculoides,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+cylindropuntia_imbricata_c6f3d8,Cylindropuntia imbricata (Choya),Cylindropuntia imbricata,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+fallopia_baldschuanica_096805,Fallopia baldschuanica (Viña del Tíbet),Fallopia baldschuanica,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+nicotiana_glauca_ceb675,Nicotiana glauca (Tabaco moruno),Nicotiana glauca,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+helianthus_tuberosus_743766,Helianthus tuberosus (Pataca),Helianthus tuberosus,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+opuntia_dillenii_8de4dd,Opuntia dillenii (Chumbera),Opuntia dillenii,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+senecio_inaequidens_4429be,Senecio del Cabo,Senecio inaequidens,planta,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+dreissena_polymorpha_6b27d1,Mejillón cebra,Dreissena polymorpha,invertebrado,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+didymosphenia_geminata_6897e8,Didymo,Didymosphenia geminata,alga,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+trachemys_scripta_b27f6e,Galápago de Florida,Trachemys scripta,reptil,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+psittacula_krameri_6fd13e,Cotorra de Kramer,Psittacula krameri,ave,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+myiopsitta_monachus_b2f236,Cotorra argentina,Myiopsitta monachus,ave,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+procyon_lotor_c3d947,Mapache,Procyon lotor,mamífero,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+iguana_iguana_eb359c,Iguana verde,Iguana iguana,reptil,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+alburnus_alburnus_ad431a,Alburno,Alburnus alburnus,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+sander_lucioperca_05fe3e,Lucioperca,Sander lucioperca,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+gobio_gobio_0deada,Gobio,Gobio gobio,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+lepomis_gibbosus_d503d1,Percasol,Lepomis gibbosus,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+silurus_glanis_bb4cb6,Siluro,Silurus glanis,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+cyprinus_carpio_e7b371,Carpa común,Cyprinus carpio,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+gambusia_holbrooki_8f4bcc,Gambusia,Gambusia holbrooki,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+micropterus_salmoides_1be6c3,Perca americana/Black-bass,Micropterus salmoides,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+ictalurus_punctatus_109823,Pez gato punteado,Ictalurus punctatus,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+rutilus_rutilus_66a8f5,Rutilo,Rutilus rutilus,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+salvelinus_fontinalis_a5bfec,Salvelino,Salvelinus fontinalis,pez,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+procambarus_clarkii_dbd491,Cangrejo rojo,Procambarus clarkii,invertebrado,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+pacifastacus_leniusculus_032352,Cangrejo señal,Pacifastacus leniusculus,invertebrado,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+potamopyrgus_antipodarum_b226bf,Caracol del cieno,Potamopyrgus antipodarum,invertebrado,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+corbicula_fluminea_53cf5d,Almeja asiática,Corbicula fluminea,invertebrado,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+ammotragus_lervia_039c8a,Arruí,Ammotragus lervia,mamífero,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+alopochen_aegyptiaca_3fba0a,Ganso del Nilo,Alopochen aegyptiaca,ave,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+oxyura_jamaicensis_b1e199,Oxyura jamaicensis,Oxyura jamaicensis,ave,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+neovison_vison_be2ddd,Visón americano,Neovison vison,mamífero,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+amandava_amandava_c89d85,Amandava rojo,Amandava amandava,ave,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+estrilda_astrild_49823a,Estrilda común,Estrilda astrild,ave,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+paysandisia_archon_419765,Paysandisia archon (barrenador palmeras),Paysandisia archon,insecto,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
+rhynchophorus_ferrugineus_25059f,Picudo rojo,Rhynchophorus ferrugineus,insecto,,TRUE,FALSE,,,,,,,Del documento de EEI (RD 630/2013).
